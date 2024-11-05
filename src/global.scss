@@ -52,3 +52,10 @@ ion-tab-bar {
   box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.2);
   border: none;
 }
+
+.flex-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}

@@ -35,7 +35,7 @@
     "@ionic-native/splash-screen": "^5.36.0",
     "@ionic/angular": "^8.3.4",
     "ionicons": "^7.2.1",
-    "rxjs": "^7.8.1",
+    "rxjs": "^6.6.7",
     "swiper": "^11.1.14",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"
